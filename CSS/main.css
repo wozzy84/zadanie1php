@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, Helvetica, sans-serif; */
+}
+
+.main-title {
+  margin: 5px 10px
+}
+
+.merry-christmass {
+  text-align: center;
+}
+ .tree__container {
+  width: 100%;
+ }
+
+
+.tree__line {
+  text-align: center;
+  margin: 0;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+}
+
+.input__label {
+  margin: 5px 10px;
+
+}
+
+.input__text-input {
+  margin: 5px 10px 0px;
+}
+
+.form-button {
+  margin: 5px 10px;
+}
+
+.form-button {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:12px 31px;
+	text-decoration:none;
+  text-shadow:0px 1px 0px #2f6627;
+  outline: none;
+}
+.form-button:hover {
+	background-color:#5cbf2a;
+}
+.form-button:active {
+	position:relative;
+	top:1px;
+}
+
+.error-text {
+  margin-left: 10px;
+  font-size: 12px;
+  color: red;
+}
